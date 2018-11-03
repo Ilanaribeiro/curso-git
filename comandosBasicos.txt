@@ -1,0 +1,28 @@
+> git tag
+v0.1 // versões
+v0.2
+
+> git diff v0.1 v0.2
+
+> git blame css/index.css 
+//historico de modificações
+
+> git clone (url) 
+//clonar o repositorio 
+
+> git checkout v0.1 
+//mudar de versão
+
+> git init
+> git status
+> git add
+> git commit -m 
+> git log // historico de commit
+> git whatchanged // historico de commit com detalhes
+> git whatchanged -p// historico de commit com mais detalhes
+> git remote origin (url)
+> git push origin master //mandar para o github
+> git clone (url) //copiar repositorio do github
+> 
+
+
