@@ -23,6 +23,8 @@ v0.2
 > git remote origin (url)
 > git push origin master //mandar para o github
 > git clone (url) //copiar repositorio do github
-> 
-
+> git checkout branch
+> git merge origin master
+> git
+> git checkout - b (nome da branch)
 
