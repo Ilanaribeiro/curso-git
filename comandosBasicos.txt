@@ -27,4 +27,14 @@ v0.2
 > git merge origin master
 > git
 > git checkout - b (nome da branch)
-
+>> git checkout - b (nome da branch)
+>> git checkout (nome do arquivo) //voltar a alteração antes do commit
+>> git reset HEAD (nome do arquivo) // voltar a alteração depois do commit
+>> git reset (identificador do commit) //volta a alteração como se o commit não existisse
+>> git reverts commit (identificador do commit) //revert só esse commit
+>> git stash  //guarda um commit pra poder desfazer um anterior
+>> git stash list //verifica o que ta guardado
+>> git stash pop
+>> git stash aply
+>> git stash drop
+>> 
